@@ -1,4 +1,5 @@
 # DeltaRobot firmware
+DeltaRobot firmware is a software for controlling Delta robots to perform picking and placing tasks.
 I used OpenCV python API for performing image processing tasks to find out the position and orientation of the product on the conveyor belt, then the position is fed into inverse kinematics algorithm to aquire the required motor angles.
 
 
